@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138363236360",
+    "project_id": "quest-47da9",
+    "storage_bucket": "quest-47da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138363236360:android:f5e623fe320adc101161bd",
+        "android_client_info": {
+          "package_name": "org.phidatalab.radar_armt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGkzeNTtO9AX0c-xc1SN2wot6XMiVvQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
